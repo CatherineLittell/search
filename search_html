@@ -1,0 +1,10 @@
+<div class="search">
+                    <form id="rpiMegaSearch" name="searchForm" action="javascript:submitRpiSearch()" method="post" class="global-search">
+                        <label class="hidden">Search the site</label>    
+                        <input type="text" placeholder="search rpi" value="" size="12" id="rpiQueryHolder" name="queryHolder" maxlength="255" alt="search term">
+                        <input type="submit" value="search" class="hidden">
+
+                        <a id="search-button"><i class="fa fa-search"></i></a>
+                    </form>
+        
+        </div>
